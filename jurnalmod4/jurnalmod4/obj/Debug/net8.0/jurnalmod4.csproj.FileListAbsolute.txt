@@ -1,0 +1,5 @@
+D:\jurnalmod4\jurnalmod4\obj\Debug\net8.0\jurnalmod4.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnalmod4\jurnalmod4\obj\Debug\net8.0\jurnalmod4.AssemblyInfoInputs.cache
+D:\jurnalmod4\jurnalmod4\obj\Debug\net8.0\jurnalmod4.AssemblyInfo.cs
+D:\jurnalmod4\jurnalmod4\obj\Debug\net8.0\jurnalmod4.csproj.CoreCompileInputs.cache
+D:\jurnalmod4\jurnalmod4\obj\Debug\net8.0\jurnalmod4.sourcelink.json
